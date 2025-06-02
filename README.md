@@ -1,5 +1,14 @@
-## Hi there 👋
+## Heya! Thank You For Viewing My GitHub Profile And Projects!
 
+If You Would Like To Know More About Me (Experiences, Leadership, Story, Start-Ups, Skills), Please Visit:
+
+My LinkedIn Profile: https://www.linkedin.com/in/alejandragomezcasani/
+
+
+My Social Media Profiles: https://www.instagram.com/alecoding/
+
+
+_Plus: I have collaborated with amazing teams to further developmobile and web applications alongside custom projects that I am unable to publish to respect the Non-Disclosure Agreements. It would be my pleasure to share the superficial mission with you!_
 <!--
 **oshingc/oshingc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
