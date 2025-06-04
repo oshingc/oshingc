@@ -1,5 +1,7 @@
 ## Heya! Thank You For Viewing My GitHub Profile And Projects!
 
+🎉 I'm a **Women Techmakers Ambassador**, passionate about tech, community building, and helping more women enter the world of software development.
+
 If You Would Like To Know More About Me (Experiences, Leadership, Story, Start-Ups, Skills), Please Visit:
 
 My LinkedIn Profile: https://www.linkedin.com/in/alejandragomezcasani/
